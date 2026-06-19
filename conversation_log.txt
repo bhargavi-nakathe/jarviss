@@ -1,0 +1,92 @@
+
+[2026-06-19 17:17:27]
+User: hello 
+Bot: Hello! How can I help you?
+
+[2026-06-19 17:17:33]
+User: hello
+Bot: Hello! How can I help you?
+
+[2026-06-19 17:17:46]
+User: hi how are you
+Bot: You said: hi how are you
+
+[2026-06-19 17:18:04]
+User: what are you doing?
+Bot: You said: what are you doing?
+
+[2026-06-19 17:18:23]
+User: what's the time
+Bot: The current time is 17:18
+
+[2026-06-19 17:18:40]
+User: what's the time
+Bot: The current time is 17:18
+
+[2026-06-19 17:19:46]
+User: hello
+Bot: Hello! How can I help you?
+
+[2026-06-19 17:19:54]
+User: what is the time
+Bot: The current time is 17:19
+
+[2026-06-19 17:25:08]
+User: hello
+Bot: Hello! How can I help you?
+
+[2026-06-19 17:28:32]
+User: hello
+Bot: Hello! How can I help you?
+
+[2026-06-19 17:28:40]
+User: what is the time
+Bot: The current time is 17:28
+
+[2026-06-19 17:31:44]
+User: calculator
+Bot: You said: calculator
+
+[2026-06-19 17:31:59]
+User: to calculate 200 +
+Bot: Invalid calculation
+
+[2026-06-19 17:32:11]
+User: play 200 + 200
+Bot: You said: play 200 + 200
+
+[2026-06-19 17:32:20]
+User: calculate 200 + 200
+Bot: The answer is 400
+
+[2026-06-19 17:39:26]
+User: hello
+Bot: Hello! How can I help you?
+
+[2026-06-19 17:39:37]
+User: your name
+Bot: I am Jarvis.
+
+[2026-06-19 17:41:29]
+User: hello
+Bot: Hello! How can I help you?
+
+[2026-06-19 17:41:38]
+User: what's your name
+Bot: I am Jarvis.
+
+[2026-06-19 22:09:31]
+User: hello
+Bot: Hello! How can I help you?
+
+[2026-06-19 22:09:40]
+User: what's your name
+Bot: I am Jarvis.
+
+[2026-06-19 22:11:12]
+User: what is your name
+Bot: I am Jarvis.
+
+[2026-06-19 22:11:25]
+User: calculate 200 + 200
+Bot: The answer is 400
