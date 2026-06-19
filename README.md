@@ -110,8 +110,7 @@ python chatbot.py
 jarvis-chatbot/
 │
 ├── chatbot.py
-├── conversation_log.txt
-├── requirements.txt 
+├── conversation_log.txt 
 └── README.md
 ```
 
